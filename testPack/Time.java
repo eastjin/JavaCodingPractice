@@ -1,9 +1,7 @@
 package testPack;
 
 
-import lombok.Getter;
 
-@Getter
 public class Time{
     static int reserv=500;
     private int hour;
